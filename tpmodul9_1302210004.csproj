@@ -10,4 +10,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\ASUS\source\repos\tpmodul9_1302210004\tpmodul9_1302210004\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\ASUS\source\repos\tpmodul9_1302210004\tpmodul9_1302210004\.editorconfig" />
+  </ItemGroup>
+
 </Project>
